@@ -1,0 +1,11 @@
+C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\bin\Debug\net6.0\NumericalMethods.Core.deps.json
+C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\bin\Debug\net6.0\NumericalMethods.Core.dll
+C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\bin\Debug\net6.0\NumericalMethods.Core.pdb
+C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.AssemblyInfo.cs
+C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.dll
+C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6.0\refint\NumericalMethods.Core.dll
+C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.pdb
+C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6.0\ref\NumericalMethods.Core.dll

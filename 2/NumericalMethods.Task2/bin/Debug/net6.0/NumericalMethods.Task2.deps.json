@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NumericalMethods.Task2/1.0.0": {
+        "dependencies": {
+          "NumericalMethods.Core": "1.0.0"
+        },
+        "runtime": {
+          "NumericalMethods.Task2.dll": {}
+        }
+      },
+      "NumericalMethods.Core/1.0.0": {
+        "runtime": {
+          "NumericalMethods.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumericalMethods.Task2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NumericalMethods.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
