@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.UI\\NumericalMethods.UI.csproj": {}
+    "D:\\Github\\DM\\2\\NumericalMethods.UI\\NumericalMethods.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.UI\\NumericalMethods.UI.csproj": {
+    "D:\\Github\\DM\\2\\NumericalMethods.UI\\NumericalMethods.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.UI\\NumericalMethods.UI.csproj",
+        "projectUniqueName": "D:\\Github\\DM\\2\\NumericalMethods.UI\\NumericalMethods.UI.csproj",
         "projectName": "NumericalMethods.UI",
-        "projectPath": "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.UI\\NumericalMethods.UI.csproj",
+        "projectPath": "D:\\Github\\DM\\2\\NumericalMethods.UI\\NumericalMethods.UI.csproj",
         "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.UI\\obj\\",
+        "outputPath": "D:\\Github\\DM\\2\\NumericalMethods.UI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Артем\\AppData\\Roaming\\NuGet\\NuGet.Config",

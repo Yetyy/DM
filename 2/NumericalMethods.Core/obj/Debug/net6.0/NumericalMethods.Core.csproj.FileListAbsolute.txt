@@ -9,3 +9,14 @@ C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6
 C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6.0\refint\NumericalMethods.Core.dll
 C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.pdb
 C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Core\obj\Debug\net6.0\ref\NumericalMethods.Core.dll
+D:\Github\DM\2\NumericalMethods.Core\bin\Debug\net6.0\NumericalMethods.Core.deps.json
+D:\Github\DM\2\NumericalMethods.Core\bin\Debug\net6.0\NumericalMethods.Core.dll
+D:\Github\DM\2\NumericalMethods.Core\bin\Debug\net6.0\NumericalMethods.Core.pdb
+D:\Github\DM\2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DM\2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.AssemblyInfoInputs.cache
+D:\Github\DM\2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.AssemblyInfo.cs
+D:\Github\DM\2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.csproj.CoreCompileInputs.cache
+D:\Github\DM\2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.dll
+D:\Github\DM\2\NumericalMethods.Core\obj\Debug\net6.0\refint\NumericalMethods.Core.dll
+D:\Github\DM\2\NumericalMethods.Core\obj\Debug\net6.0\NumericalMethods.Core.pdb
+D:\Github\DM\2\NumericalMethods.Core\obj\Debug\net6.0\ref\NumericalMethods.Core.dll

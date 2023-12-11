@@ -16,3 +16,21 @@ C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Task2\obj\Debug\net
 C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Task2\obj\Debug\net6.0\NumericalMethods.Task2.pdb
 C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Task2\obj\Debug\net6.0\NumericalMethods.Task2.genruntimeconfig.cache
 C:\Users\Артем\Desktop\Чм лаба 2\NumericalMethods.Task2\obj\Debug\net6.0\ref\NumericalMethods.Task2.dll
+D:\Github\DM\2\NumericalMethods.Task2\bin\Debug\net6.0\NumericalMethods.Task2.exe
+D:\Github\DM\2\NumericalMethods.Task2\bin\Debug\net6.0\NumericalMethods.Task2.deps.json
+D:\Github\DM\2\NumericalMethods.Task2\bin\Debug\net6.0\NumericalMethods.Task2.runtimeconfig.json
+D:\Github\DM\2\NumericalMethods.Task2\bin\Debug\net6.0\NumericalMethods.Task2.dll
+D:\Github\DM\2\NumericalMethods.Task2\bin\Debug\net6.0\NumericalMethods.Task2.pdb
+D:\Github\DM\2\NumericalMethods.Task2\bin\Debug\net6.0\NumericalMethods.Core.dll
+D:\Github\DM\2\NumericalMethods.Task2\bin\Debug\net6.0\NumericalMethods.Core.pdb
+D:\Github\DM\2\NumericalMethods.Task2\obj\Debug\net6.0\NumericalMethods.Task2.csproj.AssemblyReference.cache
+D:\Github\DM\2\NumericalMethods.Task2\obj\Debug\net6.0\NumericalMethods.Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\DM\2\NumericalMethods.Task2\obj\Debug\net6.0\NumericalMethods.Task2.AssemblyInfoInputs.cache
+D:\Github\DM\2\NumericalMethods.Task2\obj\Debug\net6.0\NumericalMethods.Task2.AssemblyInfo.cs
+D:\Github\DM\2\NumericalMethods.Task2\obj\Debug\net6.0\NumericalMethods.Task2.csproj.CoreCompileInputs.cache
+D:\Github\DM\2\NumericalMethods.Task2\obj\Debug\net6.0\NumericalMethods.Task2.csproj.CopyComplete
+D:\Github\DM\2\NumericalMethods.Task2\obj\Debug\net6.0\NumericalMethods.Task2.dll
+D:\Github\DM\2\NumericalMethods.Task2\obj\Debug\net6.0\refint\NumericalMethods.Task2.dll
+D:\Github\DM\2\NumericalMethods.Task2\obj\Debug\net6.0\NumericalMethods.Task2.pdb
+D:\Github\DM\2\NumericalMethods.Task2\obj\Debug\net6.0\NumericalMethods.Task2.genruntimeconfig.cache
+D:\Github\DM\2\NumericalMethods.Task2\obj\Debug\net6.0\ref\NumericalMethods.Task2.dll

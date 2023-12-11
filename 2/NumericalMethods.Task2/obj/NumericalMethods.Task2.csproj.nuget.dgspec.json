@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.Task2\\NumericalMethods.Task2.csproj": {}
+    "D:\\Github\\DM\\2\\NumericalMethods.Task2\\NumericalMethods.Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.Core\\NumericalMethods.Core.csproj": {
+    "D:\\Github\\DM\\2\\NumericalMethods.Core\\NumericalMethods.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.Core\\NumericalMethods.Core.csproj",
+        "projectUniqueName": "D:\\Github\\DM\\2\\NumericalMethods.Core\\NumericalMethods.Core.csproj",
         "projectName": "NumericalMethods.Core",
-        "projectPath": "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.Core\\NumericalMethods.Core.csproj",
+        "projectPath": "D:\\Github\\DM\\2\\NumericalMethods.Core\\NumericalMethods.Core.csproj",
         "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.Core\\obj\\",
+        "outputPath": "D:\\Github\\DM\\2\\NumericalMethods.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Артем\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.Task2\\NumericalMethods.Task2.csproj": {
+    "D:\\Github\\DM\\2\\NumericalMethods.Task2\\NumericalMethods.Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.Task2\\NumericalMethods.Task2.csproj",
+        "projectUniqueName": "D:\\Github\\DM\\2\\NumericalMethods.Task2\\NumericalMethods.Task2.csproj",
         "projectName": "NumericalMethods.Task2",
-        "projectPath": "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.Task2\\NumericalMethods.Task2.csproj",
+        "projectPath": "D:\\Github\\DM\\2\\NumericalMethods.Task2\\NumericalMethods.Task2.csproj",
         "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.Task2\\obj\\",
+        "outputPath": "D:\\Github\\DM\\2\\NumericalMethods.Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Артем\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.Core\\NumericalMethods.Core.csproj": {
-                "projectPath": "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.Core\\NumericalMethods.Core.csproj"
+              "D:\\Github\\DM\\2\\NumericalMethods.Core\\NumericalMethods.Core.csproj": {
+                "projectPath": "D:\\Github\\DM\\2\\NumericalMethods.Core\\NumericalMethods.Core.csproj"
               }
             }
           }

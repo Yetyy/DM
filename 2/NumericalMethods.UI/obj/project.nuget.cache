@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ctdwtWcyhqW0K4Z3fMjtz3lDLxfO4IwchOlgQEvLtfMmlQusDWkz+b3eNp5bX9TW3xNfjrXX2uItbFZHyV3Fsg==",
+  "dgSpecHash": "tmrmdTr7entlEx2IpbaA1uuLyJGGzbS5WioiUwLHkJKjeB4iW0D0HBGtgInIJNpgMBw/YyBxIW0tM8izq8ErfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Артем\\Desktop\\Чм лаба 2\\NumericalMethods.UI\\NumericalMethods.UI.csproj",
+  "projectFilePath": "D:\\Github\\DM\\2\\NumericalMethods.UI\\NumericalMethods.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Артем\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Артем\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
