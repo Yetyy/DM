@@ -9,7 +9,7 @@ namespace NumericalMethods.Task2
             _ = matrix ?? throw new ArgumentNullException(nameof(matrix));
 
             for (var i = 0; i < matrix.GetLength(0); ++i)
-                matrix[i, 0] *= eps;
+                matrix[i, i] *= eps;
 
             return matrix;
         }

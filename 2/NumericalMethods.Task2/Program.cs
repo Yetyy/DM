@@ -21,7 +21,8 @@ namespace NumericalMethods.Task2
         static double FindAccuracies(int count, int halfRibbonLength, double minValue, double maxValue)
         {
             _ = count < 0 ? throw new ArgumentOutOfRangeException(nameof(count), "The number of elements must not be negative.") : true;
-            double[,] matrixWithoutRightSide = _doubleRandom.GenerateBandedSymmetricMatrix(count, count, halfRibbonLength, minValue, maxValue)/*.ToPoorlyConditionedMatrix()*/;
+            // для создания плохо обусловленных матриц использовать ToPoorlyConditionedMatrix порядок k=5;
+            double[,] matrixWithoutRightSide = _doubleRandom.GenerateBandedSymmetricMatrix(count, count, halfRibbonLength, minValue, maxValue)/*.ToPoorlyConditionedMatrix()*/; 
             IReadOnlyList<double> expectRandomSolution = _doubleRandom.Repeat(count, minValue, maxValue).ToArray();
             var rightSideBuilder = new RightSideBuilder(matrixWithoutRightSide);
             IReadOnlyList<double> randomRightSide = rightSideBuilder.Build(expectRandomSolution);
@@ -35,15 +36,13 @@ namespace NumericalMethods.Task2
 
         static void Main()
         {
-            const int TestCount = 2;
+            const int TestCount = 10;
             var testCases = new (int n, int length,int minValue, int maxValue)[]
              {
                 (10, 1,-10, 10),
-                (10, 3,-10, 10),
-                (12, 3,-100, 100),
-                (12, 5,-1000, 1000),
-                (100, 5,-1000, 1000),
-                (1000, 5,-1000, 1000),
+                (10, 2,-10, 10),
+                (100, 1,-100, 100),
+                (100,2,-1000, 1000),
              };
             FindAccuracies(10, 2, 1, 10); //Example
             foreach (var (MatrixLength, HalfRibbonLength, minValue, maxValue) in testCases)
